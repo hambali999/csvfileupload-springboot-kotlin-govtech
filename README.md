@@ -12,4 +12,16 @@ Create a Spring Boot web backend in Kotlin with the following functionalities.
 ### How to setup?
 
 1. Install IntelliJ @ https://www.jetbrains.com/idea/download/#section=windows
-2. Git clone the repository  
+2. On your computer terminal, type 'git clone https://github.com/hambali999/csvfileupload-springboot-kotlin-govtech.git' or u can just copy paste the sentence.
+
+### How to start the project?
+
+1. Once done, open IntelliJ & on the 'File' tab at the top, open the project that you've just cloned!
+2. Once the project has finished with the downloads of dependencies & configurations. 
+3. Run the project by clicking the 'play' icon on the top!
+
+### Dependencies used
+- spring-boot-starter-thymeleaf
+- spring-boot-starter-web
+- opencsv:5.2
+- spring-boot-starter-data-jpa
