@@ -12,7 +12,7 @@ Create a Spring Boot web backend in Kotlin with the following functionalities.
 ### How to setup?
 
 1. Install IntelliJ @ https://www.jetbrains.com/idea/download/#section=windows
-2. On your computer terminal, type 'git clone https://github.com/hambali999/csvfileupload-springboot-kotlin-govtech.git' or u can just copy paste the sentence.
+2. On your computer terminal, create a folder & type 'git clone https://github.com/hambali999/csvfileupload-springboot-kotlin-govtech.git' or u can just copy paste the sentence.
 
 ### How to start the project?
 
